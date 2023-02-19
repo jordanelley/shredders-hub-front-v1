@@ -1,4 +1,5 @@
 {
+  "homepage": "https://jordanelley.github.io/shredders-hub-front-v1",
   "name": "auth0-react-sample",
   "version": "0.1.0",
   "private": true,
@@ -41,6 +42,7 @@
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16",
     "@testing-library/react": "^12.1",
+    "gh-pages": "^5.0.0",
     "jest-environment-jsdom": "^27.0",
     "jest-fetch-mock": "^3.0",
     "nodemon": "^2.0"
