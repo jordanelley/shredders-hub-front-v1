@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/shredders-hub-front-v1/static/css/main.9ec0fc72.css",
+    "main.js": "/shredders-hub-front-v1/static/js/main.89d2eeec.js",
+    "static/media/skiLifts.gif": "/shredders-hub-front-v1/static/media/skiLifts.be92fb9cd2566dc92b2d.gif",
+    "static/media/ski-load.gif": "/shredders-hub-front-v1/static/media/ski-load.86e7c1eece5bf6c926ee.gif",
+    "static/media/logo.png": "/shredders-hub-front-v1/static/media/logo.f58c9e2eeee96e9025d0.png",
+    "static/media/loading.svg": "/shredders-hub-front-v1/static/media/loading.330b7d99bfbae8039a5456998d97914f.svg",
+    "index.html": "/shredders-hub-front-v1/index.html",
+    "main.9ec0fc72.css.map": "/shredders-hub-front-v1/static/css/main.9ec0fc72.css.map",
+    "main.89d2eeec.js.map": "/shredders-hub-front-v1/static/js/main.89d2eeec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ec0fc72.css",
+    "static/js/main.89d2eeec.js"
+  ]
+}
